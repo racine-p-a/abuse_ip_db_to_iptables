@@ -1,7 +1,7 @@
 # abuse_ip_db_to_iptables
 Rust program aiming to ban automatically all IP addresses from abuseIPDB to IPtables.
 
-I consider this program done but feel free to push new options or functionalities.
+I consider this program done, but you can push new options or functionalities.
 
 ## INSTALLATION
 
